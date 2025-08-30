@@ -1,0 +1,38 @@
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Dataset files (often large)
+Dataset/*.zip
+Dataset/*.tar.gz
+Dataset/*.rar
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
