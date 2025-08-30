@@ -1,38 +1,38 @@
-# Large files
-*.zip
-*.tar.gz
-*.rar
-*.7z
+# # Large files
+# *.zip
+# *.tar.gz
+# *.rar
+# *.7z
 
-# Dataset files (often large)
-Dataset/*.zip
-Dataset/*.tar.gz
-Dataset/*.rar
+# # Dataset files (often large)
+# Dataset/*.zip
+# Dataset/*.tar.gz
+# Dataset/*.rar
 
-# Jupyter notebook checkpoints
-.ipynb_checkpoints/
+# # Jupyter notebook checkpoints
+# .ipynb_checkpoints/
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
+# # Python cache
+# __pycache__/
+# *.pyc
+# *.pyo
 
-# Environment files
-.env
-.venv/
-venv/
+# # Environment files
+# .env
+# .venv/
+# venv/
 
-# IDE files
-.vscode/
-.idea/
+# # IDE files
+# .vscode/
+# .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
+# # OS files
+# .DS_Store
+# Thumbs.db
 
-# Logs
-*.log
+# # Logs
+# *.log
 
-# Temporary files
-*.tmp
-*.temp
+# # Temporary files
+# *.tmp
+# *.temp
