@@ -2,7 +2,7 @@
 
 Major project by B.Tech students at the **Department of Information Technology, IIIT Allahabad**. This repository contains the curated dataset, training notebooks, project report, and presentation for detecting sarcasm in Indian news headlines using classical machine learning and state-of-the-art transformer models.
 
-**Authors:** Ravi Utsav (IIT2020504) · Siddhant Agrawal (IIT2020228) · Shreyans Jain (IIT2020238)  
+**Authors:** Siddhant Agrawal (IIT2020228) · Ravi Utsav (IIT2020504) · Shreyans Jain (IIT2020238)  
 **Supervisor:** Dr. Naveen Saini  
 **Repository:** [github.com/Siddhant-Agarwal4583/sarcasm-detection](https://github.com/Siddhant-Agarwal4583/sarcasm-detection)
 
@@ -303,5 +303,5 @@ This repository is an academic major project submission. Please cite or contact 
 
 If you use the dataset or this work, please reference:
 
-> Ravi Utsav, Siddhant Agrawal, Shreyans Jain. *Sarcasm Detection in Indian News Headlines.* Major Project, Department of IT, IIIT Allahabad, 2024.  
+> Siddhant Agrawal, Ravi Utsav, Shreyans Jain. *Sarcasm Detection in Indian News Headlines.* Major Project, Department of IT, IIIT Allahabad, 2024.  
 > Dataset: [Kaggle — Indian News Sarcastic Headline Dataset](https://www.kaggle.com/datasets/raviutsavk/indian-news-sarcastic-headline-dataset)
